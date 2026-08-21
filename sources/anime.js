@@ -3,9 +3,9 @@ const animeData = {
       {
             name: 'AnimeAct',
             url: 'https://animeact.com',
-            desc: 'Anime and manga platform featuring anime, manga, manhwa and manhua across multiple genres.',
+            desc: 'Streaming Anime and baca manga subtittle indonesia platform featuring anime, manga, manhwa and manhua across multiple genres.',
             tags: ['Anime', 'Manga'],
-            image: 'https://animeact.com/favicon.ico',
+            image: 'https://i.postimg.cc/CMP9yVbG/animeact.jpg',
             rating: 4
         },
               {
