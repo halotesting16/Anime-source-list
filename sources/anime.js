@@ -1,12 +1,13 @@
 const animeData = {
     streaming: [
-        {
-    name: 'AnimeAct',
-    url: 'https://animeact.com',
-    desc: 'Anime and manga platform featuring anime, manga, manhwa and manhua across multiple genres.',
-    tags: ['Anime', 'Manga'],
-    image: 'https://animeact.com/favicon.ico'
-},
+      {
+            name: 'AnimeAct',
+            url: 'https://animeact.com',
+            desc: 'Anime and manga platform featuring anime, manga, manhwa and manhua across multiple genres.',
+            tags: ['Anime', 'Manga'],
+            image: 'https://animeact.com/favicon.ico',
+            rating: 4
+        },
               {
           name: 'Animekai',
           url: 'https://animekai.to/',
